@@ -26,3 +26,18 @@
 /Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/obj/Debug/net9.0/SyntaxisAnalysis.pdb
 /Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/obj/Debug/net9.0/SyntaxisAnalysis.genruntimeconfig.cache
 /Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/obj/Debug/net9.0/ref/SyntaxisAnalysis.dll
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\bin\Debug\net9.0\SyntaxisAnalysis.exe
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\bin\Debug\net9.0\SyntaxisAnalysis.deps.json
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\bin\Debug\net9.0\SyntaxisAnalysis.runtimeconfig.json
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\bin\Debug\net9.0\SyntaxisAnalysis.dll
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\bin\Debug\net9.0\SyntaxisAnalysis.pdb
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.AssemblyInfoInputs.cache
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.AssemblyInfo.cs
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.sourcelink.json
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.dll
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\refint\SyntaxisAnalysis.dll
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.pdb
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\SyntaxisAnalysis.genruntimeconfig.cache
+C:\Users\gherr\Downloads\syntaxis_Giuliana\Syntaxis\SyntaxisAnalysis\obj\Debug\net9.0\ref\SyntaxisAnalysis.dll

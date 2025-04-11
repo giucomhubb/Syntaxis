@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/adolfoarroyo/.nuget/packages/": {}
+    "C:\\Users\\gherr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/SyntaxisAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\gherr\\Downloads\\syntaxis_Giuliana\\Syntaxis\\SyntaxisAnalysis\\SyntaxisAnalysis.csproj",
       "projectName": "SyntaxisAnalysis",
-      "projectPath": "/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/SyntaxisAnalysis.csproj",
-      "packagesPath": "/Users/adolfoarroyo/.nuget/packages/",
-      "outputPath": "/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/srcPrivate/Syntaxis/SyntaxisAnalysis/obj/",
+      "projectPath": "C:\\Users\\gherr\\Downloads\\syntaxis_Giuliana\\Syntaxis\\SyntaxisAnalysis\\SyntaxisAnalysis.csproj",
+      "packagesPath": "C:\\Users\\gherr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gherr\\Downloads\\syntaxis_Giuliana\\Syntaxis\\SyntaxisAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/adolfoarroyo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gherr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

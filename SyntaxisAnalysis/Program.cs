@@ -1,12 +1,19 @@
 ﻿using System;  
 using System.Collections.Generic;  
-  
+//a01562646, Giuliana Herrera
 namespace SimpleSyntaxCompiler  
 {  
     class Program  
     {  
         static void Main(string[] args)  
         {  
+            Console.Write("Welcome, write an expression: ");
+            string user= Console.ReadLine();
+            List<String> tokens= Tokenize(user);
+            Parser parser= new Parser(tokens);
+            bool result= parser.ParseExpression();
+            Console.WriteLine(result);   
+            
            
         }  
   
@@ -59,6 +66,7 @@ namespace SimpleSyntaxCompiler
             _position = 0;  
         }  
   
+
         public bool ParseExpression()  
         {  
             if (!ParseTerm())  
